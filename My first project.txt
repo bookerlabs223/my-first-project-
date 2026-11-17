@@ -10,7 +10,7 @@
 	<p>one day i will create my dream</p>
 	
 	
-	<a href="page2.html"target="blank">link to page 2</a>
+	<a href="index.html"target="blank">link to index.html</a>
 	
 	
 	
